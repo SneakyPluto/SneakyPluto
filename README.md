@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **SneakyPluto/SneakyPluto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there! 👋 I'm a Computer Science Student at QUT
+I'm currently pursuing my passion for Computer Science at the Queensland University of Technology (QUT), diving deep into the world of technology.  My interests are pretty diverse, spanning from the nitty-gritty of embedded systems to the complexities of full-stack development.
+
+I particularly enjoy working on backend development, crafting robust and efficient systems. Whilst I enjoy backend, I also have a strong understanding of frontend technologies, allowing me to contribute across the entire development spectrum.  I'm also fascinated by the power of APIs and have experience working with them, building connections between different systems.  Cloud computing is another area I'm exploring, and I'm gaining valuable experience with Amazon Web Services (AWS).
+
+Beyond the world of code, I enjoy staying active. You'll often find me on the volleyball court, hitting the gym, or unwinding with some gaming.  I believe in maintaining a healthy balance between my tech pursuits and my personal interests.
+
+I'm always eager to learn and collaborate on exciting projects.
+
+📫 How to reach me: 
+Email: pepsomo@gmail.com
+Linkedin: https://www.linkedin.com/in/travis-levine/
+
+
+😄🏐🏋️‍♂️🎮💻🚀
