@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there! 👋 I'm a Computer Science Student at QUT
-I'm currently pursuing my passion for Computer Science at the Queensland University of Technology (QUT), diving deep into the world of technology.  My interests are pretty diverse, spanning from the nitty-gritty of embedded systems to the complexities of full-stack development.
+I'm currently pursuing my passion for Computer Science, diving deep into the world of technology.  My interests are pretty diverse, spanning from the nitty-gritty of embedded systems to the complexities of full-stack development.
 
 I particularly enjoy working on backend development, crafting robust and efficient systems. Whilst I enjoy backend, I also have a strong understanding of frontend technologies, allowing me to contribute across the entire development spectrum.  I'm also fascinated by the power of APIs and have experience working with them, building connections between different systems.  Cloud computing is another area I'm exploring, and I'm gaining valuable experience with Amazon Web Services (AWS).
 
