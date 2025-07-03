@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 I'm a Computer Science student studying at the University of the Sunshine Coast
+# 👋 I'm a computer science student studying at the University of the Sunshine Coast
 My interests are diverse, embedded systems to the complexities of full-stack development.
 
 I particularly enjoy working on backend development, crafting robust and efficient systems. Whilst I enjoy backend, I also have a strong understanding of frontend technologies, allowing me to contribute across the entire development spectrum.  I'm also fascinated by the power of APIs and have experience working with them, building connections between different systems.  Cloud computing is another area I'm exploring, gaining experience with Amazon Web Services (AWS).
